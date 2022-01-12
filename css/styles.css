@@ -2026,7 +2026,10 @@ progress {
   color: var(--bs-table-hover-color);
 }
 
-.table-primary {
+.table-
+
+
+{
   --bs-table-bg: #f2dfd7;
   --bs-table-striped-bg: #e6d4cc;
   --bs-table-striped-color: #000;
